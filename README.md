@@ -2,6 +2,6 @@
 
 Curso Git Mastermind
 
-Kaixo mundu!
+Kaixo zelan!
 
 
