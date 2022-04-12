@@ -6,4 +6,6 @@ Kaixo mundu!
 
 Idiota
 
+Barkatu
+
 
