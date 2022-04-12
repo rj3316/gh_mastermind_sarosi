@@ -4,4 +4,6 @@ Curso Git Mastermind
 
 Kaixo mundu!
 
+Idiota
+
 
